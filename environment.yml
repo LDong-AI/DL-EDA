@@ -6,4 +6,4 @@ dependencies:
 - pytables
 - openpyxl
 - xlrd
--numpy
+- numpy
